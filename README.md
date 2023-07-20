@@ -1,6 +1,4 @@
-### Hi there, I am Andrea Alberti 👋
-
-# Andrea Alberti's GitHub Profile
+# Hi there, I am Andrea Alberti 👋
 
 Hello there! 👋 I'm Andrea Alberti, a passionate individual with a background in Management Engineering and a keen interest in the exciting world of technology and artificial intelligence. Welcome to my public GitHub profile!
 
