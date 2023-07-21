@@ -23,7 +23,7 @@ I'll be using GitHub to showcase some of my projects, experiments, and contribut
 
 ## Contact
 
-I'm always excited to connect with like-minded individuals and potential collaborators. Feel free to reach out to me via email at my [personal email](mailto:andalberti99@gmail.com) or my [institutional email](mailto:andrea.alberti01@universitadipavia.it).
+I'm always excited to connect with individuals sharing this passion and potential collaborators. Feel free to reach out to me via email at my [personal email](mailto:andalberti99@gmail.com) or my [institutional email](mailto:andrea.alberti01@universitadipavia.it).
 
 Looking forward to exploring the endless possibilities of technology and AI with you!
 
