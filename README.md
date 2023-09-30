@@ -7,7 +7,7 @@ Hello there! 👋 I'm Andrea Alberti, a passionate individual with a background 
 - 🎓 Bachelor's Degree: Management Engineering, University of Brescia (Cum Laude)
 - 🎓 Master's Degree: Computer Engineering - Data Science, University of Pavia (In Progress...)
 - 📅 Age: 23 years old
-- 🌍 Languages: Italian (native), English (fluent)
+- 🌍 Languages: Italian (native), English (upper advanced), French (upper elementary)
 
 ## Interests
 
