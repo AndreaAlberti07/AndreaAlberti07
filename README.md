@@ -4,7 +4,7 @@ Hello there! 👋 I'm Andrea Alberti, a passionate individual with a background 
 
 ## About Me
 
-- 🎓 Bachelor's Degree: Management Engineering, University of Brescia (Cum Laude)
+- 🎓 Bachelor's Degree: Management Engineering, University of Brescia (110/100 Cum Laude)
 - 🎓 Master's Degree: Computer Engineering - Data Science, University of Pavia (In Progress...)
 - 📅 Age: 23 years old
 - 🌍 Languages: Italian (native), English (upper advanced), French (upper elementary)
@@ -20,6 +20,10 @@ If you want to know more about me and my journey, check out my [video curriculum
 ## GitHub Projects
 
 I'll be using GitHub to showcase some of my projects, experiments, and contributions to the open-source community. Feel free to explore my repositories, check out the code, and provide feedback or collaborate on interesting projects.
+
+## Currently Working On
+
+I'm currectly working on three projects in the fields of Financial Data Science, Computer Vision and Satellite Data Analysis.
 
 ## Contact
 
