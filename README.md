@@ -23,7 +23,7 @@ I'll be using GitHub to showcase some of my projects, experiments, and contribut
 
 ## Currently Working On
 
-I'm currectly working on three projects in the fields of Financial Data Science, Computer Vision and Satellite Data Analysis.
+I'm currently working on three projects in the fields of Financial Data Science, Computer Vision and Satellite Data Analysis.
 
 ## Contact
 
