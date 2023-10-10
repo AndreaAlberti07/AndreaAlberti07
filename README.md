@@ -25,6 +25,15 @@ I'll be using GitHub to showcase some of my projects, experiments, and contribut
 
 I'm currently working on three projects in the fields of Financial Data Science, Computer Vision and Satellite Data Analysis.
 
+## Currently Learning
+
+I'm currently learning the following subjects:
+- Financial Data Science
+- Information Security
+- Satellite Data Analysis
+- Computer Vision
+- Advanced Biomedical Machine Learning
+
 ## Contact
 
 I'm always excited to connect with individuals sharing this passion and potential collaborators. Feel free to reach out to me via email at my [personal email](mailto:andalberti99@gmail.com) or my [institutional email](mailto:andrea.alberti01@universitadipavia.it).
