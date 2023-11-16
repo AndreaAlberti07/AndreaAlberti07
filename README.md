@@ -1,6 +1,6 @@
 # Hi there, I am Andrea Alberti 👋
 
-Hello there! 👋 I'm Andrea Alberti, a passionate individual with a background in Management Engineering and a keen interest in the exciting world of technology and artificial intelligence. Welcome to my public GitHub profile!
+Hello there! 👋 I'm Andrea Alberti, an enthusiastic individual with a foundation in Management Engineering. Always captivated by the dynamic realm of technology and artificial intelligence, I am currently attending a Master's Degree in Computer Engineering with a focus on Data Science.
 
 ## About Me
 
@@ -19,7 +19,7 @@ If you want to know more about me and my journey, check out my [video curriculum
 
 ## GitHub Projects
 
-I'll be using GitHub to showcase some of my projects, experiments, and contributions to the open-source community. Feel free to explore my repositories, check out the code, and provide feedback or collaborate on interesting projects.
+I'll be using GitHub to showcase some of my projects and experiments developed during the MSc Degree. Feel free to explore my repositories, check out the code, and provide feedback or collaborate on interesting projects.
 
 ## Currently Working On
 
