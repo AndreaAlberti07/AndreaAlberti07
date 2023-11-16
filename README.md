@@ -1,6 +1,6 @@
 # Hi there, I am Andrea Alberti 👋
 
-Hello there! 👋 I'm Andrea Alberti, an enthusiastic individual with a foundation in Management Engineering. Always captivated by the dynamic realm of technology and artificial intelligence, I am currently attending a Master's Degree in Computer Engineering with a focus on Data Science.
+Hello there! 👋 I'm Andrea Alberti, an enthusiastic individual with a foundation in Management Engineering. Always captivated by the dynamic realm of technology and artificial intelligence, I am currently attending a Master's Degree in Computer Engineering with a focus on Data Science. To know me better visit my personal website [at this link](https://andreaalberti07.github.io).
 
 ## About Me
 
