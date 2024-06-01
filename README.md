@@ -23,16 +23,13 @@ I'll be using GitHub to showcase some of my projects and experiments developed d
 
 ## Currently Working On
 
-I'm currently working on three projects in the fields of Financial Data Science, Computer Vision and Satellite Data Analysis.
+I'm currently working on two projects in the fields of Advanced Biomedical ML and Audio Deepfake Detection. 
 
 ## Currently Learning
 
 I'm currently learning the following subjects:
-- Financial Data Science
-- Information Security
-- Satellite Data Analysis
-- Computer Vision
 - Advanced Biomedical Machine Learning
+- Deep Learning for Audio Classification
 
 ## Contact
 
