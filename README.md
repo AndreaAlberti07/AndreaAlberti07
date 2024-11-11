@@ -1,12 +1,12 @@
-# Hi there, I am Andrea Alberti 👋
+# Hi there, I am Andrea 👋
 
-Hello there! 👋 I'm Andrea Alberti, an enthusiastic individual with a foundation in Management Engineering. Always captivated by the dynamic realm of technology and artificial intelligence, I am currently attending a Master's Degree in Computer Engineering with a focus on Data Science. To know me better visit my personal website [at this link](https://andreaalberti07.github.io).
+Hello there! 👋 I'm Andrea, an enthusiastic individual with a foundation in Management Engineering. Always captivated by the dynamic realm of technology and artificial intelligence, I am currently attending a Master's Degree in Computer Engineering with a focus on Data Science. To know me better visit my personal website [at this link](https://andreaalberti07.github.io).
 
 ## About Me
 
 - 🎓 Bachelor's Degree: Management Engineering, University of Brescia (110/100 Cum Laude)
-- 🎓 Master's Degree: Computer Engineering - Data Science, University of Pavia (In Progress...)
-- 📅 Age: 23 years old
+- 🎓 Master's Degree: Computer Engineering - Data Science, University of Pavia (110/110 Cum Laude)
+- 📅 Age: 24 years old
 - 🌍 Languages: Italian (native), English (upper advanced), French (upper elementary)
 
 ## Interests
