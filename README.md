@@ -19,17 +19,12 @@ If you want to know more about me and my journey, check out my [video curriculum
 
 ## GitHub Projects
 
-I'll be using GitHub to showcase some of my projects and experiments developed during the MSc Degree. Feel free to explore my repositories, check out the code, and provide feedback or collaborate on interesting projects.
+GitHub showcases some of my projects and experiments developed during the MSc Degree. Feel free to explore my repositories, check out the code, and provide feedback or collaborate on interesting projects.
 
 ## Currently Working On
 
-I'm currently working on two projects in the fields of Advanced Biomedical ML and Audio Deepfake Detection. 
+I'm currently working on Agentic GenAI project within the Google Cloud Infrastructure. 
 
-## Currently Learning
-
-I'm currently learning the following subjects:
-- Advanced Biomedical Machine Learning
-- Deep Learning for Audio Classification
 
 ## Contact
 
